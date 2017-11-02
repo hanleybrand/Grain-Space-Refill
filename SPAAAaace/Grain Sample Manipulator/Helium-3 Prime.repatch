@@ -4,20 +4,20 @@
         Grain Sample Manipulator
     </DeviceNameInEnglish>
     <Samples>
-        <SampleReference trueName="Ultra Cold Liquid Helium-3.mp3"  userFriendlyName="Ultra Cold Liquid Helium-3.mp3"  type="sample" >
+        <SampleReference trueName="Ultra Cold Liquid Helium-3.aiff"  userFriendlyName="Ultra Cold Liquid Helium-3.aiff"  type="sample" >
             <DatabasePath>
                 <ReFillName/>
                 <Path>
-                    /NASA/SPAAAaace/NASA sounds/Ultra Cold Liquid Helium-3.mp3
+                    /Grain Space Refill/SPAAAaace/NASA sounds/Ultra Cold Liquid Helium-3.aiff
                 </Path>
             </DatabasePath>
             <AbsolutePath>
                 <Volume name=""  type="unknown" />
                 <Path partOfReFill="no" >
-                    /mbhd/Users/hanley/Music/reason documents/NASA/SPAAAaace/NASA sounds/Ultra Cold Liquid Helium-3.mp3
+                    /mbhd/Users/hanley/Music/reason documents/Grain Space Refill/SPAAAaace/NASA sounds/Ultra Cold Liquid Helium-3.aiff
                 </Path>
                 <NativeURL mode="OSXFile" >
-                    file:///Users/hanley/Music/reason%20documents/NASA/SPAAAaace/NASA%20sounds/Ultra%20Cold%20Liquid%20Helium-3.mp3
+                    file:///Users/hanley/Music/reason%20documents/Grain%20Space%20Refill/SPAAAaace/NASA%20sounds/Ultra%20Cold%20Liquid%20Helium-3.aiff
                 </NativeURL>
             </AbsolutePath>
         </SampleReference>
@@ -578,10 +578,10 @@
         </Object>
         <Object name="user_samples/0" >
             <Value property="root_key"  type="number" >
-                39
+                60
             </Value>
             <Value property="tune_cents"  type="number" >
-                16
+                50
             </Value>
             <Value property="play_range_start"  type="number" >
                 0

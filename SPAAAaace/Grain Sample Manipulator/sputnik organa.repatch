@@ -4,20 +4,20 @@
         Grain Sample Manipulator
     </DeviceNameInEnglish>
     <Samples>
-        <SampleReference trueName="578625main_sputnik-beep.m4r"  userFriendlyName="578625main_sputnik-beep.m4r"  type="sample" >
+        <SampleReference trueName="578625main_sputnik-beep.aiff"  userFriendlyName="578625main_sputnik-beep.aiff"  type="sample" >
             <DatabasePath>
                 <ReFillName/>
                 <Path>
-                    /reason documents/NASA/578625main_sputnik-beep.m4r
+                    /Grain Space Refill/SPAAAaace/NASA sounds/578625main_sputnik-beep.aiff
                 </Path>
             </DatabasePath>
             <AbsolutePath>
                 <Volume name=""  type="unknown" />
                 <Path partOfReFill="no" >
-                    /mbhd/Users/hanley/Music/reason documents/NASA/578625main_sputnik-beep.m4r
+                    /mbhd/Users/hanley/Music/reason documents/Grain Space Refill/SPAAAaace/NASA sounds/578625main_sputnik-beep.aiff
                 </Path>
                 <NativeURL mode="OSXFile" >
-                    file:///Users/hanley/Music/reason%20documents/NASA/578625main_sputnik-beep.m4r
+                    file:///Users/hanley/Music/reason%20documents/Grain%20Space%20Refill/SPAAAaace/NASA%20sounds/578625main_sputnik-beep.aiff
                 </NativeURL>
             </AbsolutePath>
         </SampleReference>
@@ -578,10 +578,10 @@
         </Object>
         <Object name="user_samples/0" >
             <Value property="root_key"  type="number" >
-                84
+                60
             </Value>
             <Value property="tune_cents"  type="number" >
-                26
+                50
             </Value>
             <Value property="play_range_start"  type="number" >
                 0

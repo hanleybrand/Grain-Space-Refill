@@ -4,20 +4,20 @@
         Grain Sample Manipulator
     </DeviceNameInEnglish>
     <Samples>
-        <SampleReference trueName="Juno Morse code &quot;HI&quot; received from Earth.mp3"  userFriendlyName="Juno Morse code &quot;HI&quot; received from Earth.mp3"  type="sample" >
+        <SampleReference trueName="Juno Morse code _HI_ received from Earth.aiff"  userFriendlyName="Juno Morse code _HI_ received from Earth.aiff"  type="sample" >
             <DatabasePath>
                 <ReFillName/>
                 <Path>
-                    /NASA/NASA sounds/Juno Morse code &quot;HI&quot; received from Earth.mp3
+                    /Grain Space Refill/SPAAAaace/NASA sounds/Juno Morse code _HI_ received from Earth.aiff
                 </Path>
             </DatabasePath>
             <AbsolutePath>
                 <Volume name=""  type="unknown" />
                 <Path partOfReFill="no" >
-                    /mbhd/Users/hanley/Music/reason documents/NASA/NASA sounds/Juno Morse code &quot;HI&quot; received from Earth.mp3
+                    /mbhd/Users/hanley/Music/reason documents/Grain Space Refill/SPAAAaace/NASA sounds/Juno Morse code _HI_ received from Earth.aiff
                 </Path>
                 <NativeURL mode="OSXFile" >
-                    file:///Users/hanley/Music/reason%20documents/NASA/NASA%20sounds/Juno%20Morse%20code%20%22HI%22%20received%20from%20Earth.mp3
+                    file:///Users/hanley/Music/reason%20documents/Grain%20Space%20Refill/SPAAAaace/NASA%20sounds/Juno%20Morse%20code%20_HI_%20received%20from%20Earth.aiff
                 </NativeURL>
             </AbsolutePath>
         </SampleReference>
@@ -578,10 +578,10 @@
         </Object>
         <Object name="user_samples/0" >
             <Value property="root_key"  type="number" >
-                91
+                60
             </Value>
             <Value property="tune_cents"  type="number" >
-                94
+                50
             </Value>
             <Value property="play_range_start"  type="number" >
                 0

@@ -4,20 +4,20 @@
         Grain Sample Manipulator
     </DeviceNameInEnglish>
     <Samples>
-        <SampleReference trueName="vger.mp3"  userFriendlyName="vger.mp3"  type="sample" >
+        <SampleReference trueName="vger.aiff"  userFriendlyName="vger.aiff"  type="sample" >
             <DatabasePath>
                 <ReFillName/>
                 <Path>
-                    /NASA/NASA sounds/vger.mp3
+                    /Grain Space Refill/SPAAAaace/NASA sounds/vger.aiff
                 </Path>
             </DatabasePath>
             <AbsolutePath>
                 <Volume name=""  type="unknown" />
                 <Path partOfReFill="no" >
-                    /mbhd/Users/hanley/Music/reason documents/NASA/NASA sounds/vger.mp3
+                    /mbhd/Users/hanley/Music/reason documents/Grain Space Refill/SPAAAaace/NASA sounds/vger.aiff
                 </Path>
                 <NativeURL mode="OSXFile" >
-                    file:///Users/hanley/Music/reason%20documents/NASA/NASA%20sounds/vger.mp3
+                    file:///Users/hanley/Music/reason%20documents/Grain%20Space%20Refill/SPAAAaace/NASA%20sounds/vger.aiff
                 </NativeURL>
             </AbsolutePath>
         </SampleReference>
