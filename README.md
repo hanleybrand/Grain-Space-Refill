@@ -28,6 +28,3 @@ What backdrops you say?
 ![SPAAAaace_PIA22082.jpg](backdrops/SPAAAaace_PIA22082.jpg)
 
 /Users/hanley/Documents/Reason Docs
-
-~/Music/Propellerhead Content/Optional Devices
-~/Music/Propellerhead Content/Optional Refills
