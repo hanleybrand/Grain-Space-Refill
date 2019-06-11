@@ -25,8 +25,6 @@ What backdrops you say?
 
 ![juno_RemnantHBH3.jpg](backdrops/juno_RemnantHBH3.jpg)
 
-![juno_temp.jpg](backdrops/juno_temp.jpg)
-
 ![SPAAAaace_PIA22082.jpg](backdrops/SPAAAaace_PIA22082.jpg)
 
 /Users/hanley/Documents/Reason Docs
