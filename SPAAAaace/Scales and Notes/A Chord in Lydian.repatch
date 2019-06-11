@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.ScalesAndChords"  deviceVersion="1.0.1" >
+    <DeviceNameInEnglish>
+        Scales &amp; Chords
+    </DeviceNameInEnglish>
+    <Properties>
+        <Object name="custom_properties" >
+            <Value property="Param_DeviceOn"  type="boolean" >
+                true
+            </Value>
+            <Value property="Param_ScaleRootKey"  type="number" >
+                9
+            </Value>
+            <Value property="Param_ScaleIndex"  type="number" >
+                3
+            </Value>
+            <Value property="Param_CustomBaseScale"  type="number" >
+                0
+            </Value>
+            <Value property="Param_FilterOutOfScaleNotes"  type="boolean" >
+                false
+            </Value>
+            <Value property="Param_MakeChord"  type="boolean" >
+                true
+            </Value>
+            <Value property="Param_ChordNumNotes"  type="number" >
+                3
+            </Value>
+            <Value property="Param_ChordInversion"  type="number" >
+                0
+            </Value>
+            <Value property="Param_ChordOpen"  type="boolean" >
+                false
+            </Value>
+            <Value property="Param_ChordAddUp"  type="boolean" >
+                false
+            </Value>
+            <Value property="Param_ChordAddDown"  type="boolean" >
+                true
+            </Value>
+            <Value property="Param_ChordAddColor"  type="boolean" >
+                false
+            </Value>
+            <Value property="Param_ChordAlter"  type="boolean" >
+                false
+            </Value>
+        </Object>
+        <Object name="transport" />
+    </Properties>
+</JukeboxPatch>

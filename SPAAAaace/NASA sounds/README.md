@@ -4,6 +4,9 @@ Here is a list of samples downloaded from [NASA's Soundcloud feed](https://sound
 
 All notes in quotes are from the respective NASA soundcloud page unless noted.
 
+The subfolder [snippets](snippets) contains snippets of the files listed on this page which were extracted for reasons, unless I am forgetting something.
+
+
 Filename | Title/Link | Notes 
 ------------ |------------ |------------ 
 Cassini-Saturn Radio Emissions num2.aiff | [Cassini: Saturn Radio Emissions #2](https://soundcloud.com/nasa/cassini-saturn-radio-emissions-2) | "Saturn is a source of intense radio emissions, which were monitored by our Cassini spacecraft. The radio waves are closely related to the auroras near the poles of the planet. These auroras are similar to Earth's northern and southern lights. This is an audio file of radio emissions from Saturn."
@@ -14,3 +17,4 @@ Ultra Cold Liquid Helium-3.aiff | [Ultra Cold Liquid Helium-3](https://soundclou
 Juno Morse code _HI_ received from Earth.aiff | [Juno: Morse code "HI" received from Earth](https://soundcloud.com/nasa/juno-morse-code-hi-received-from-earth) | "During its close flyby of Earth in 2013, NASA's Jupiter-bound Juno spacecraft listened for -- and heard -- a coordinated, global transmission from amateur radio operators using its radio and plasma wave science instrument. The message said "HI" in Morse code. More details about this sound can be found here: [photojournal.jpl.nasa.gov/catalog/PIA17744](https://photojournal.jpl.nasa.gov/catalog/PIA17744)"
 578625main_sputnik-beep.aiff | [Sputnik: Beep](https://soundcloud.com/nasa/sputnik-beep) | The Soviet Union launched a beeping ball into space, so we retaliated with a moon trip and making all the children take more science classes. 
 whistler waves.aiff | [Whistler Waves](https://soundcloud.com/nasa/whistler-waves2) | "Whistler waves as heard by the EMFISIS instrument aboard NASA’s Van Allen Probes as it passed around Earth. Credits: NASA/University of Iowa"
+sun_sonification.wav | [Sun Sonification](https://soundcloud.com/nasa/sun-sonification) | "The Stanford Experimental Physics Lab sonified data from the European Space Agency and NASA's Solar and Heliospheric Observatory (SOHO). This humming sound captures the Sun’s natural vibrations and provides scientists with a concrete representation of its dynamic movements For more solar sounds, visit: [oi.stanford.edu](oi.stanford.edu/results/sounds.html)"

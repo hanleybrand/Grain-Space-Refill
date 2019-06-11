@@ -11,6 +11,21 @@ So that's what this Refil is about. _SPAAAaace_.
 
 The Reason patches in this repo are created by me, and are distributed via the Unlicense, mainly because attribution with audio is so tedious, but if you love it or get super famous/rich and you can attribute it partially to using these patches, a shout out or backstage pass when you tour the U.S. East Coast would be lovely, but I'll take being on the list.  
 
-It likely goes without saying, but the Unlicense only applies to the creative work stored in the patch files, but does not apply to Propellerheads file formats or software. Some of the patches may be based on an altered default patch that was distributed with Reason 10, hopefully that's ok. 
+It likely goes without saying, but the Unlicense only applies to the creative work stored in the patch files, but does not apply to Propellerheads file formats or software. Some of the patches may be based on an altered default patch that was distributed with Reason 10, hopefully that's ok. I can't see how it wouldn't be, really. 
 
-NASA media is licensed under a [Creative Commons License (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/legalcode). See the 
+NASA media is licensed under a [Creative Commons License (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/legalcode). See the [README.md](SPAAAaace/NASA sounds/README.md) in `SPAAAaace/NASA sounds`for more information.
+
+Space photos  used in the backdrops are either from the [NASA JPL](https://photojournal.jpl.nasa.gov) ([image use policy](https://www.jpl.nasa.gov/imagepolicy/)) or [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+What backdrops you say?
+
+### Backdrops
+
+![juno_backdrop.jpg](backdrops/juno_backdrop.jpg)
+
+![juno_RemnantHBH3.jpg](backdrops/juno_RemnantHBH3.jpg)
+
+![juno_temp.jpg](backdrops/juno_temp.jpg)
+
+![SPAAAaace_PIA22082.jpg](backdrops/SPAAAaace_PIA22082.jpg)
+

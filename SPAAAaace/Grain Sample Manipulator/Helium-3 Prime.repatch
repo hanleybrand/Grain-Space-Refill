@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.Grain"  deviceVersion="1.0f2" >
+<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.Grain"  deviceVersion="1.0f4" >
     <DeviceNameInEnglish>
         Grain Sample Manipulator
     </DeviceNameInEnglish>
@@ -121,7 +121,7 @@
                 0.7031
             </Value>
             <Value property="Osc On"  type="number" >
-                1
+                0
             </Value>
             <Value property="Osc To Filter"  type="number" >
                 1
@@ -576,12 +576,13 @@
                 0
             </Value>
         </Object>
+        <Object name="transport" />
         <Object name="user_samples/0" >
             <Value property="root_key"  type="number" >
-                60
+                39
             </Value>
             <Value property="tune_cents"  type="number" >
-                50
+                16
             </Value>
             <Value property="play_range_start"  type="number" >
                 0
