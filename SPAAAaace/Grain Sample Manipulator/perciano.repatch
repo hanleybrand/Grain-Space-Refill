@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.Grain"  deviceVersion="1.0f4" >
+<JukeboxPatch version="2.0"  deviceProductID="se.propellerheads.Grain"  deviceVersion="1.0.1" >
     <DeviceNameInEnglish>
         Grain Sample Manipulator
     </DeviceNameInEnglish>
@@ -8,15 +8,23 @@
             <DatabasePath>
                 <ReFillName/>
                 <Path>
-                    /My Patches/perciano.rx2/perciano.rx2 [0]
+                    /SPAAAaace/Sounds by Hanleybrand/perciano.rx2/perciano.rx2 [0]
                 </Path>
             </DatabasePath>
             <AbsolutePath>
                 <Volume name=""  type="unknown" />
                 <Path partOfReFill="no" >
-                    /Macintosh HD/Users/hanley/Music/reason documents/My Patches/perciano.rx2/perciano.rx2 [0]
+                    /Macintosh HD/Users/hanley/Music/Grain-Space-Refill/Grain-Space-Refill/SPAAAaace/Sounds by Hanleybrand/perciano.rx2/perciano.rx2 [0]
                 </Path>
             </AbsolutePath>
+            <RelativePath>
+                <Path>
+                    /Sounds by Hanleybrand/perciano.rx2/perciano.rx2 [0]
+                </Path>
+                <StepUp>
+                    1
+                </StepUp>
+            </RelativePath>
         </SampleReference>
     </Samples>
     <Properties>
@@ -40,7 +48,7 @@
                 0.00766873
             </Value>
             <Value property="End Pos"  type="number" >
-                0.208589
+                0.627301
             </Value>
             <Value property="Scroll"  type="number" >
                 0
@@ -576,10 +584,10 @@
         <Object name="transport" />
         <Object name="user_samples/0" >
             <Value property="root_key"  type="number" >
-                55
+                60
             </Value>
             <Value property="tune_cents"  type="number" >
-                1
+                50
             </Value>
             <Value property="play_range_start"  type="number" >
                 0
